@@ -19,7 +19,7 @@ pip install "google-generativeai>=0.7,<1"
 
 ```bash
 # 셸에만 임시 등록(현재 터미널 세션 동안만)
-export GOOGLE_API_KEY=AIzaSyACMOmuMqU2MIcjwWk7vOtPCw0nrWP3fr8
+export GOOGLE_API_KEY="여기에_발급받은_키"
 
 # 영구 등록(다음 로그인부터 자동 반영)
 echo 'export GOOGLE_API_KEY="여기에_발급받은_키"' >> ~/.bashrc
