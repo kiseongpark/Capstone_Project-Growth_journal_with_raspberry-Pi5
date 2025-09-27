@@ -86,3 +86,29 @@ python run.py
 ```
 
 
+---
+
+
+### 동작 구조
+
+
+run.py를 실행하면, 모듈 tts_utils.py, pushbullet_utils.py를 불러와서 사용한다.
+
+
+### 결과
+
+1. 인식 결과
+
+<img width="824" height="266" alt="image" src="https://github.com/user-attachments/assets/c1041083-2d8e-458b-b026-5e2a2cd57d57" />
+
+
+3. 성장일지, pushbullet, TTS 결과
+
+   
+<img width="2879" height="1698" alt="image" src="https://github.com/user-attachments/assets/23bdf71b-9a1e-4a50-81fa-08431c1d43a0" />
+
+
+[summary_tts.mp3](https://github.com/user-attachments/files/22571501/summary_tts.mp3)
+
+
+
