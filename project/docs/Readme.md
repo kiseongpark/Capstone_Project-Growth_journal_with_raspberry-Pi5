@@ -35,8 +35,8 @@ genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
 
 ```
 
-2. **gtts**
-
+### 2. gtts
+---
 
 ```bash
 pip install gTTS
@@ -55,8 +55,8 @@ from gtts import gTTS
 ```
 
 
-3. **Pushbullet API**
-
+### 3. Pushbullet API
+---
 
    ```python
 pip install pushbullet.py
