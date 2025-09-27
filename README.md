@@ -49,7 +49,7 @@ pip install "ultralytics>=8.3,<9"
 ```
 
 
-*******참고******
+**-------참고-------**
 
 실행 전 Gemini API key, gtts, Pushbullet API key 세팅하고 진행해야한다.
 
