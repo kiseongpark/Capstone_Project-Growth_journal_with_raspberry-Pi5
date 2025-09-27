@@ -104,7 +104,7 @@ run.py를 실행하면, 모듈 tts_utils.py, pushbullet_utils.py를 불러와서
 
 2. **성장일지, pushbullet, TTS 결과**
 
-<img width="2879" height="1698" alt="image" src="https://github.com/user-attachments/assets/23bdf71b-9a1e-4a50-81fa-08431c1d43a0" />
+<img width="461" height="480" alt="image" src="https://github.com/user-attachments/assets/6cc68f78-95b1-42bf-b79d-e4c88c16405f" />
 
 
 [summary_tts.mp3](https://github.com/user-attachments/files/22571501/summary_tts.mp3)
