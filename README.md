@@ -97,14 +97,13 @@ run.py를 실행하면, 모듈 tts_utils.py, pushbullet_utils.py를 불러와서
 
 ### 결과
 
-1. 인식 결과
+1. **인식 결과**
 
 <img width="824" height="266" alt="image" src="https://github.com/user-attachments/assets/c1041083-2d8e-458b-b026-5e2a2cd57d57" />
 
 
-3. 성장일지, pushbullet, TTS 결과
+2. **성장일지, pushbullet, TTS 결과**
 
-   
 <img width="2879" height="1698" alt="image" src="https://github.com/user-attachments/assets/23bdf71b-9a1e-4a50-81fa-08431c1d43a0" />
 
 
