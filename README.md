@@ -8,6 +8,8 @@
 
 ##### 1. 가상환경 및 각종 패키지 설치
 
+1. **가상환경 세팅**
+
 ```bash
 python3 -m venv --system-site-packages project
 ```
@@ -19,7 +21,7 @@ source project/bin/activate
 ```
 
 가상 환경을 실행시키는 코드이다.
-1. **핵심 과학 스택 + OpenCV(headless)**
+2. **핵심 과학 스택 + OpenCV(headless)**
     
     (GUI 없는 서버에서도 동작. `cv2.imshow`가 필요하면 뒤에 안내된 방법으로 GUI 지원으로 바꿀 수 있어요.)
     
@@ -29,7 +31,7 @@ pip install "numpy>=2.0,<2.3" opencv-python-headless==4.12.0.88
 
 ```
 
-2. **Ultralytics + PyTorch (CPU)**
+3. **Ultralytics + PyTorch (CPU)**
     
     라즈베리파이에선 CPU 빌드가 가장 수월합니다.
     
@@ -50,17 +52,17 @@ pip install "ultralytics>=8.3,<9"
 
 
 project 폴더 안 파일은 아래 사진과 같이 구성된다.
-<img width="1012" height="738" alt="image (17)" src="https://github.com/user-attachments/assets/d1c1b384-93e8-42f2-bf4a-539ed92aae85" />
+<img width="650" height="400" alt="image (17)" src="https://github.com/user-attachments/assets/d1c1b384-93e8-42f2-bf4a-539ed92aae85" />
 
-1. 편집기로 새 파일 생성(직접 위치가서 생성해도됨) - 자유롭게
+1. **편집기로 새 파일 생성(직접 위치가서 생성해도됨) - 자유롭게**
     
     ```bash
     nano run.py
     
     ```
     
-2. 같은 폴더에 best1.pt 넣기 (사전에 학습한 모델)
-3. 가상환경 활성화 후 실행
+2. **같은 폴더에 best1.pt 넣기 (사전에 학습한 모델)**
+3. **가상환경 활성화 후 실행**
 
 ```bash
 source project/bin/activate
