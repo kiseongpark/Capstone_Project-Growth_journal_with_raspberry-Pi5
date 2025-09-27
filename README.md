@@ -6,7 +6,7 @@
 
 ### 라즈베리파이 환경 세팅(Raspberry Pi 5)
 
-##### 1. 가상환경 및 각종 패키지 설치
+#### 1. 가상환경 및 각종 패키지 설치
 
 1. **가상환경 세팅**
 
@@ -52,7 +52,10 @@ pip install "ultralytics>=8.3,<9"
 
 
 project 폴더 안 파일은 아래 사진과 같이 구성된다.
-<img width="650" height="400" alt="image (17)" src="https://github.com/user-attachments/assets/d1c1b384-93e8-42f2-bf4a-539ed92aae85" />
+
+
+<img width="7000" height="400" alt="image (17)" src="https://github.com/user-attachments/assets/d1c1b384-93e8-42f2-bf4a-539ed92aae85" />
+
 
 1. **편집기로 새 파일 생성(직접 위치가서 생성해도됨) - 자유롭게**
     
