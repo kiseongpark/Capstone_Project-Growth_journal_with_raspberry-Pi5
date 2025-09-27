@@ -47,17 +47,18 @@ pip install --extra-index-url https://download.pytorch.org/whl/cpu torch torchvi
 pip install "ultralytics>=8.3,<9"
 
 ```
-----
+---
 
 
 **참고**
 
 실행 전 Gemini API key, tts, Pushbullet API key 세팅하고 진행해야한다.
 
-----
 
 [방법](project/docs/README.md)
 
+
+---
 
 ##### 2. 파일 구조 및 실행법
 ---
