@@ -57,7 +57,7 @@ pip install "ultralytics>=8.3,<9"
 [세팅 방법](project/docs/README.md)
 
 
-##### 2. 파일 구조 및 실행법
+#### 2. 파일 구조 및 실행법
 ---
 
 project 폴더 안 파일은 아래 사진과 같이 구성된다.
